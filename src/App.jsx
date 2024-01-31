@@ -12,7 +12,7 @@ const App = () => {
         <input className='px-4 mb-[12px] border rounded-lg h-[48px] w-[348px]'type="text" placeholder='Email or phone number'name="" id="" />
         <input className='px-4 mb-[15px] border rounded-lg h-[48px] w-[348px]' type="text" placeholder='Password' />
         <button className='mb-[22px] rounded-lg bg-blue-500 font-bold text-white h-[48px] w-[348px]'>Log in</button>
-        <a className='mb-[22px] text-center text-blue-500' href="">Forgot password?</a>
+        <a className='hover:underline mb-[22px] text-center text-blue-500' href="">Forgot password?</a>
         <hr className='mb-[25px]'/>
         <div className='flex justify-center'>
         <button className=' bg-green-500 text-white font-bold rounded-lg h-[43px] w-[192px]'>Create new account</button>
