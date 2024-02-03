@@ -1,7 +1,4 @@
 @tailwind base;
 @tailwind components;
-.btn {
-    @apply p-10 rounded-full bg-green-500 text-white
-}
 @tailwind utilities;
 
